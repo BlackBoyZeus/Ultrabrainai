@@ -29,4 +29,11 @@ Devops
 iOS/android
 Network Streaming Protocol
 Notion
+
+
+------
+Post - hyperfinancing.
+------
+<img width="1280" alt="PNG image" src="https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/035ff0e0-bd5e-4f9a-97f8-38bdd4f3221c">
+
 Ai/ML 
