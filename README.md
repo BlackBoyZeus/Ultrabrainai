@@ -40,6 +40,7 @@ Notion
 ------
 Post - hyperfinancing.
 ------
-<img width="1280" alt="PNG image" src="https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/035ff0e0-bd5e-4f9a-97f8-38bdd4f3221c">
+<img width="572" alt="PNG image" src="https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/8b47af17-9391-4b99-adba-149d51b0a101">
+
 
 Ai/ML 
