@@ -8,7 +8,7 @@ Ultrabrainai, inc. ( The Ultrabrain Network ) Network Memo's
 Compression Δ
 - Capture multitude of phenomena , with versatile interest(s) , that encapsulates the whole inequivalent synthesis 
 - (Additive requisite for the promise of the phylum 
-- Accelerated evolutionary inference, days upon cross platform collaboration 
+- Where Accelerated evolutionary inference, draws upon cross platform collaboration 
 
 Crowdface is the newest distribution channel for advertisement these is, & this is merely the early stages of what it will ultimately become. Unique opportunity to be bltizscale visibly, leveraging established core advances . Light fast branding ability . In the new age, speed and shape of communication matter tremendously. Those who deliver their message fast and more creatively, see more responsive consumer behavior in a modern era.
 
