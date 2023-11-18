@@ -1,11 +1,10 @@
 Ultrabrainai
 Ultrabrainai, inc. ( The Ultrabrain Network ) Network Memo's
 
+![E55C0281-C731-4C6C-85F4-1D71D29B831E 2](https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/69d896a3-bc77-4c66-a24f-6d350705c6c2)
 
 
-----<img width="1280" alt="PNG image" src="https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/4ea79f77-b358-41e8-967b-ac75a32e6049">
 
-![E55C0281-C731-4C6C-85F4-1D71D29B831E 2](https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/bef9d22c-996f-4d51-b480-3f555d75e986)
 
 Compression Δ
 
