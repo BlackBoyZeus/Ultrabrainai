@@ -5,7 +5,11 @@ Ultrabrainai, inc. ( The Ultrabrain Network ) Network Memo's
 
 ----<img width="1280" alt="PNG image" src="https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/4ea79f77-b358-41e8-967b-ac75a32e6049">
 
+Compression Δ
 
+The crowdface is a new means of distribution, I.e. distribution channel. Companies like snap, TikTok and legacy media as well as various other sector(s) have created billion in value from owning the highest distribution ability and speed but have also largely been infra-slow  due to the dependency on a platform economy is form factor limitations. Amazingly we have discovered a lightweight device for consuming branded content of advertisements and deploys them swiftly in a psychologically sticker fashion that leverages the technical components of advertising, with more modern habits of consumption as a delivery vehicle. Also the ability to compress a time Δ into a network stream for inference suggests, the scalable compound mechanics on time spend, growth, expense, earnings, over time as well as the collective health of the modern consumer in a n age of information, overlap where the visual comms ability of the meme, suggests the-crowdface is a natural next step in our evolution cycle. 
+
+As evidenced by modern aims boom cycle we are moving toward a gilded age of compression Δ where compression represents the value ascertained from experience. The ability to compress, time, experience, and information in a more compact device is the transformation that the iPhone brought about  .and something that trailed off as the world grew used to such compression. Companies like Tesla represent another face of compression Δ, the experience compressed into the sustainable architecture is something akin to eh superiority of Chinese engineering. When compression, meets distribution, velocity max is achieved and a populous audience is transformed into critical mass. The scalar vectors in time space become instead of a physical friction barrier a signal=noise ratio when the clearest signal wins. Heightened communication in the age of memetic. The crowdface instantiates a much clearer & decisive way to surmise value.
 
 Compression Δ
 - Capture multitude of phenomena , with versatile interest(s) , that encapsulates the whole inequivalent synthesis 
