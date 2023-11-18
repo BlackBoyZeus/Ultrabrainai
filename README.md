@@ -1,9 +1,11 @@
-![Modified_Tech_Stack_Visualization](https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/246bf964-13ce-4f50-a4e7-6b005d7dac23)# Ultrabrainai
+Ultrabrainai
 Ultrabrainai, inc. ( The Ultrabrain Network ) Network Memo's
 
 
 
 ----<img width="1280" alt="PNG image" src="https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/4ea79f77-b358-41e8-967b-ac75a32e6049">
+
+
 
 Compression Δ
 - Capture multitude of phenomena , with versatile interest(s) , that encapsulates the whole inequivalent synthesis 
