@@ -1,4 +1,4 @@
-# Ultrabrainai
+![Modified_Tech_Stack_Visualization](https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/246bf964-13ce-4f50-a4e7-6b005d7dac23)# Ultrabrainai
 Ultrabrainai, inc. ( The Ultrabrain Network ) Network Memo's
 
 
@@ -20,6 +20,7 @@ The phenomenon crowdface envelopes, related to the popularity of a live stream e
 
 Tech Stack
 ________________
+![Modified_Tech_Stack_Visualization](https://github.com/BlackBoyZeus/Ultrabrainai/assets/128257630/c311ce9b-cdb9-4555-a09b-be5cf60b38b8)
 
 Python 
 Azure CLI
