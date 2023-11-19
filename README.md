@@ -70,7 +70,7 @@ GitHub, DevOps, Notion
 AI/ML, iOS/Android, Network Streaming Protocol
 
 ------
-Post-Hyperfinancing Era
+Post-Hyperfinancing Era:
 We are well-positioned for the next phase of growth in the post-hyperfinancing era, ready to scale and innovate further.
 ------
 
