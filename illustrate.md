@@ -16,7 +16,10 @@ Now, Therefore, the Parties agree as follows:
 Purpose:
 This RSA outlines the terms under which revenue generated during live-streamed events will be shared among the Parties.
 Revenue Model:
-Charge By Audience Model During Live Events: Revenue is calculated in real-time based on viewer count and engagement duration during the live event, using the formula: Revenue = Number of Views (N) × Rate per View (Z) × Duration (T).
+
+Charge By Audience Model: Revenue is generated based on viewer count and engagement duration.
+Fixed Rate: $0.10 per view, regardless of the duration of the advertisement.
+Formula: Revenue = Number of Views (N) × Fixed Rate per View (Z) × Duration (T).
 Revenue Sharing:
 Total Revenue Distribution:
 The Company: 50% of the total revenue generated during the live event.
@@ -44,13 +47,3 @@ For the Stakeholders:
 
 
 
-Here are the results of the simulation for potential earnings using the Crowdface model with a fixed advertisement rate of $0.10 per view, considering different advertisement durations:
-
-Ad Duration (Seconds)	Earnings: Davis vs. Garcia	Earnings: Crawford vs. Spence	Earnings: Jake Paul Fight
-10	$1,220,000	$695,000	$541,758
-20	$2,440,000	$1,390,000	$1,083,516
-30	$3,660,000	$2,085,000	$1,625,275
-40	$4,880,000	$2,780,000	$2,167,033
-50	$6,100,000	$3,475,000	$2,708,791
-60	$7,320,000	$4,170,000	$3,250,549
-These results show how the potential advertisement earnings increase with the duration of the ads, highlighting the revenue potential through the Crowdface model. ​​
