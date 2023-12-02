@@ -51,8 +51,7 @@ i
 c
 ×
 F
-)
-Revenue(Pool)=N×Z×T×(1+M 
+)Revenue(Pool)=N×Z×T×(1+M 
 dynamic×F)
 This formula dynamically adjusts revenue based on viewer count, duration, and engagement levels.
 3. Revenue Distribution
